@@ -1,0 +1,7 @@
+   text	   data	    bss	    dec	    hex	filename
+  0x2a4	    0x0	   0x44	    744	    2e8	./obj/test_traffic_data_via_ep0.o
+  0x35c	    0x0	    0xc	    872	    368	./obj/uengine_control.o
+  0x188	    0x0	    0x0	    392	    188	./obj/uengine_control_bank.o
+  0x4a8	    0x0	    0x0	   1192	    4a8	./obj/uengine_event_deal.o
+  0x75c	    0xc	  0x100	   2152	    868	./obj/uengine_main.o
+   0xd4	    0x0	    0x0	    212	     d4	./obj/uengine_message_deal.o
